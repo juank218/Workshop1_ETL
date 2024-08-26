@@ -15,6 +15,10 @@ For this workshop, I used Python and Jupyter Notebook, choosing to store the hir
 
 To consider a candidate "hired" they had to have scores greater than or equal to 7 in both the code challenge and the technical interview.
 
+### Dashboard
+
+![Dashboard](data-README.md/dashboard.png)
+
 
 ## Steps to Reproduce the Analysis
 
